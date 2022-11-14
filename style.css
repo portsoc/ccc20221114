@@ -1,0 +1,38 @@
+  * {
+    box-sizing: border-box;
+  }
+
+  main {
+    background: lightgreen;
+    padding: 0.5rem;
+  }
+
+  header, p {
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  #myniceheader {
+    background: lightcyan;
+    border: solid thin black;
+  }
+
+  .myniceclass {
+    background: red;
+    color: white;
+  }
+
+  .myotherclass {
+    font-weight: bold;
+  }
+
+  section {
+    background: orange;
+  }
+
+  p {
+    width: 50%;
+    background: yellow;
+    color: blue;
+    border: solid thin black;
+  }
