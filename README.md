@@ -1,4 +1,4 @@
-# ccc20221114
+# CCC 2022-11-14
 Examples as they were at the end of the lecture on Mon 14th Nov 2022
 
 To get a local copy you can download the zip file (look for the green code button, click on that and use the link therein), or preferably, use git to clone a copy thus: 
