@@ -7,3 +7,5 @@ git clone https://portsoc.github.io/ccc20221114
 ```
 
 Also available as a [live demo](https://portsoc.github.io/ccc20221114/)
+
+See also, similar but different [examples from the other lecture](https://github.com/portsoc/ccc20221115).
